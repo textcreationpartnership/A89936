@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new (and too true) description of England: briefly delineating the [brace] carefull condition of the court. Cautious policy of the head city. Callamitous case of the country. And cruell passages of the campe. In a familier dialogue, betweene, Chrystopher a cavalier, and Barnaby a caviller. / Written by (now I thinke on't) tis no matter who. But it affords, more witt then words.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89936</idno>
+            <idno type="STC">Wing N546</idno>
+            <idno type="STC">Thomason E246_17</idno>
+            <idno type="STC">ESTC R19472</idno>
+            <idno type="EEBO-CITATION">99860679</idno>
+            <idno type="PROQUEST">99860679</idno>
+            <idno type="VID">158381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new (and too true) description of England: briefly delineating the [brace] carefull condition of the court. Cautious policy of the head city. Callamitous case of the country. And cruell passages of the campe. In a familier dialogue, betweene, Chrystopher a cavalier, and Barnaby a caviller. / Written by (now I thinke on't) tis no matter who. But it affords, more witt then words.</title>
+                  <author>Wither, George, 1588-1667,</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Wither in the Wrenn catalogue.</note>
+                  <note>The words "Carefull . country" and "Cruell .. campe" are enclosed in brackets on the title page.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "Feb: 15 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158381:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 94 -->
+            <p>A New (and too true) Deſcription <hi>OF ENGLAND: BRIEFLY DELINEATING</hi> The
+<list>
+                  <item>Carefull condition of the Court.</item>
+                  <item>Cautions Policy of the head City.</item>
+                  <item>Callamitous caſe of the Country. And</item>
+                  <item>Cruell paſſages of the Campe.</item>
+               </list>
+            </p>
+            <p>
+               <hi>IN A FAMILIER DIALOGVE,</hi> Betweene, Chryſtopher <hi>a Cavalier,</hi> AND Barnaby <hi>a Caviller.</hi>
+            </p>
+            <p>Written by (now I thinke on't) 'tis no mat<g ref="char:EOLhyphen"/>ter who.
+<q>
+                  <l>But it affords,</l>
+                  <l>More witt then words</l>
+               </q>
+            </p>
+            <p>LONDON, <hi>Printed in the Year 1643.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158381:2"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:158381:2"/>
+            <!-- PDF PAGE 95 -->
+            <head>A NEVV (AND TOO TR<g ref="char:V">Ʋ</g>E) DE<g ref="char:EOLhyphen"/>SCRIPTION OF ENGLAND.</head>
+            <sp>
+               <speaker>Barnaby.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat my old accquaint<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce, <hi>Kitt?</hi> art thou unhang'd yet, alive ſtill, not kil'd in all this knocking time, I prethee how haſt thou ſcapt all this while, when Thouſands of thy bet<g ref="char:EOLhyphen"/>ters have gone to the pot, But tell me (Sirrah) half all thy limbes ſound and whole?</p>
+            </sp>
+            <sp>
+               <speaker>Chriſtopher,</speaker>
+               <p>I: And my eates too (thou egge of a Cocke a-Trice) I thanke heaven for't not ſo much as a haire of my head dimininniſhed ſince I ſaw thee, And yet (without oſtentation be it ſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oken) I have beene as forward as the beſt in the Army, God bleſſe the <hi>King.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Well no more of that if thou lov'ſt me; but how goes matters, things, b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſneſſes, what ſhall I ſay, what's the newes amongſt you Cava<g ref="char:EOLhyphen"/>liers, whence cameſt thou now? come let us diſcourſe a little befor we part.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>I marry with all my heart why I'le tell the true, I came from my Chamber at <hi>Oxford,</hi> where the beſt newes is; that His Majeſty (God be thanked) is in very good health: and wants neither Men, Horſe, Money, Ammunition, Victuall, nor firme harted friends; what ſaieſt thou <hi>Bar<g ref="char:EOLhyphen"/>naby</hi> is not that good newes?</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Good newes quotha. I pray thee harp no more upon that ſtring, ſuch harmoney I like not, ther's no kinde of true concord in't, well I know what I thinke.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Out upon thee thou ſumme (or rather ſcum) of all baſenaſſe, what doſt thou thinke (thou villaine) the devine word ſaith, thou ſhalt not thinke evill of the King, and dar'ſt thou harbour thoughts of His Sacred Maieſty which thou wilt not reveale.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>I prit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee <hi>Kitt</hi> be not ſo Cynicall, don't byte of my <hi>Noſe,</hi> I am bid<g ref="char:EOLhyphen"/>den to a wedding. let's diſcourſe ſoberly and to the purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>I wonder <hi>Barnaby</hi> how thou dar'ſt uſe that proverb, it being ſo old, I dar ſay if any of your Banellia<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>, Hoggſheaderians, Piperians, or But<g ref="char:EOLhyphen"/>terians (for there are degrees of Tubbe as men have guifts) ſhould heare thee, they would account thee worthy of great reprehenſion, but let that paſſe. what would'ſt thou ſay if thou could'ſt ſpake; let me heare?</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>But before we proceede any further, let me obleige the to ſpeake nothing at all of the <hi>King;</hi> for I know thy humor, thoul't be prayſing him for a Juſt, mercifull, prudent, pious, and truly Religious Prince, and what not, but?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:158381:3"/>
+               <!-- PDF PAGE 96 -->
+               <speaker>Chry.</speaker>
+               <p>But what thou Baſiliske? I rhinke I muſt be forced to kick thee into better manners, and conjure downe that damnable ſpirit of detracti<g ref="char:EOLhyphen"/>on and diſobedience, but I ſhall get no credit by't, who toucheth Pitch ſhall be defiled, God bleſſe the King and Parliament, and ſend us a hap<g ref="char:EOLhyphen"/>py vnion betwene them, put a period to theſe deſtracted and deſtructive times which poore England groanes under, this is my hearty prayer and ever ſhall be, till death.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>J could wiſh there might be peace too; but as the eaſe ſtands now, while the credit of our cauſe lies at ſtake, we ought to promote this <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>alous and godly Warr rather then ſue for, or imbrace an vnjuſt and di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>olicall peace, there's my parmanent reſolution, which i'le maintaine <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th purſe and perſon even to death it ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Not too much of that <hi>Barnaby,</hi> any other thing but that ſame <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> throat death your Sectaries can endure, for the truths ſake (as they <gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ly tearme it) but the apprehenſion of death will make them change <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ir opinions as often as <hi>Proteus</hi> did to ſeverall ſhapes, rather then un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rgoe this thing cal'd death.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Nay nay Kit now thou doeſt exceed the lymitts of truth and <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſcience, for I prithe did not many hundreds of of us dye at <hi>Worceſter <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>inton</hi> and <hi>Brainford, Batterſey,</hi> and in divers other parts of the King<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me, (the more's the pitty) and yet doeſt thou ſay we dare not die for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Religion; doſt not bluſh at this falſe report.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Not a whit, for <hi>I</hi> ſaid nothing but i'le iuſtifie and mainetaine before the prime Sectmaſter of you all; <hi>I</hi> confeſſe many fought and were kil'd, but for what did they dye? <hi>J</hi> prithe for Religion? thou wilt anſwere <hi>J;</hi> but <hi>I</hi> tell thee noe, for you fought for mony, for meat for cloathes, pillage and a little vaine glory: to make a compoſition of your Ample imployment.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>And what didſt thou and the reſt of the Cavaliers fight for, <hi>I</hi> thinke our caſes are much alike: though our conſciences are at great difference.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Conſcience quotha? thine and the reſt of thy ſect have bottom<g ref="char:EOLhyphen"/>leſſe conſciences: nothing comes amiſſe to you: all is ſwalloed downe that pretended zealous gu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph: which indeed (to ſay truth without diſſi<g ref="char:EOLhyphen"/>mulation) hath almoſt quite deuoured the glory and beauty which was the Peace and plenty of the moſt noble and admirable Kingdome in the Chriſtian world: ah poore miſerable and unfortunate England that from thine owne bowels haſt produced ſuch a Viperors brood which now ſwim in b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood to thy Ruine and vtter deſtruction; <hi>J</hi> am ſure all ho<g ref="char:EOLhyphen"/>neſt well minded Chriſtians who wiſh the wellfare of King and Coun<g ref="char:EOLhyphen"/>try doe ſuffer for your pe<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>viſhneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Why I prithee don't we fight for the Ghoſpell?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:158381:3"/>
+               <!-- PDF PAGE 96 -->
+               <speaker>Chry.</speaker>
+               <p>Doth not the King maintaine the Ghoſpell? is not he the De<g ref="char:EOLhyphen"/>fender of the true ancient, Catholique and Apoſtolique Faith; where's the difference tell me?</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>I: but the King inclynes to Popery and Supperſtition, which we ſtrive to ſuppreſſe and aboliſh by this holy Warr.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Was it Popery and Superſtition which Queene <hi>Elizabeth,</hi> and King <hi>Iames</hi> (of happy memory) did maintaine, and the King promiſes to maintaine the like, even to defend with the utmoſt hezard of his Royall Crowne, Dignity, and Life; then why will we not beleeve him: but I gheſſe the reaſon, you long for a change, the Biſhops kept you to much in awe; have I not hit the nayle o'the head.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Thou haſt indeed, for I zealouſly proteſt, that we do deteſt the Proteſtant Religion which thou ſpeak'ſt of; and which the King promiſes (nay prehaps will performe) to maintaine, full as much as we do Popery, for to ſay truth Popery and vulgar Proteſtancy are very neere corrella<g ref="char:EOLhyphen"/>tives.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Vulgar Proteſtancy? O Ha ha ha, well I finde now <hi>Barnaby</hi> where your ſhooe wringes: you would have Religion refin'd wo'd you? I thinke you have brought the Kingdome to a very fine paſſe with your reſining Noveliſme; the Court's full of care, the Citty full of unwonted Pollicy, the country feeles callamity, and to theſe three ſo long uſ'd e<g ref="char:EOLhyphen"/>ſtates, your damnable inventions have now of late added a fourth, which is the Campe, and that hath neceſſarily many cruell paſſages, and when ſprings all theſe miſeries but from a multitude of factious turbulent ſpirits that itch after novelty and change of Government.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Well well <hi>Kitt,</hi> ſay or do what thee and thy confederacy can we muſt have the ſtaines of the Church waſhed of with the blood of the ungodly, wee'le daſh theſe babilonian brats againſt the ſtones, and in ſo doing thinke we doe God good ſervice, weele have our owne minds be<g ref="char:EOLhyphen"/>fore we have done.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>O Diabolicall ſpirit how do'ſt thou delude theis ſimple people, how like an Angell of light art thou metamorphoſed in theſe wretched times, to betray ſo many thouſands of ſelfe conceited ſoules; Oh Bar<g ref="char:EOLhyphen"/>naby I am ſorry with all my heart that you have no more grace in you, Oh that you would expell from you thoſe ſpirits of contention and Ar<g ref="char:EOLhyphen"/>rogancy, and inſtead of them imbrace the ſpirits of humility and obedi<g ref="char:EOLhyphen"/>ence that you would ſeeke peace and purſue it, that you would give ho<g ref="char:EOLhyphen"/>nour to whom honour is due, and be obedient unto Superiours, as unto the ordinance of God; and as thoſe who muſt yeild accoumpt for your Soules: but whileſt this ſelfe love and contempt of government ra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnes in this Kingdome, we muſt expect nothing but inevitable ruine both in Church and State.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:158381:4"/>
+               <!-- PDF PAGE 97 -->
+               <speaker>Bar.</speaker>
+               <p>I hath thought a Cavalier had not had ſo many good words in's mouth, neither doe J thinke many of you have; for verily 'tis for your wickedneſſe that the godly are unforced to this neſseſſity of ſeeking blood-ſhed; your ſwearing and blaſpheming muſt be chaſtized, and God I know hath put you into our hands.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Oh prophane ſacriligions miſcreant, who tould the thou art holier then I, none but the Devill who is a lyer from the begining, and the father of ſuch liers as thou art; for I tell the onc<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> again that this very con<g ref="char:EOLhyphen"/>ceipt of thy owne ſanctity and thy brothers imperfection, is a moſt dam<g ref="char:EOLhyphen"/>nable ſinne, and deſerves eternall puniſhment why <hi>Barnaby</hi> if thou ſee or hease thy brother ſweare, Blaſpheme or commit any unjuſt act, it be<g ref="char:EOLhyphen"/>hooves thee to reprehend ſuch a one in the ſpirit of meekenes, <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rayning charity in the bond of Peace, this Salve (upon my life) would cure all the Ruptures and fractions of theiſe calamitous times</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Better and better I proteſt, thou haſt ſpoken (brother <hi>Kit</hi>) more then I or any man would expect from a Cavalier, J had thought ſuch as thee had nothing in your mouthes but Damme and Sinke, and ſuch ex<g ref="char:EOLhyphen"/>ecrable imprecations.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Indeed brother if ſewer did uſe that moſt damnable, vnnaturall, unneceſſary, and unprofitable vice; yet it is too many by the whole num<g ref="char:EOLhyphen"/>ber; but for my part and I know (God be thanked) there be many thou<g ref="char:EOLhyphen"/>ſands as carefull as my ſelfe to avoid that abhominable ſinne; why I tell thee <hi>Barnaby</hi> thou art deceived in the very name and nature of a Cavalier, as thou art in all the reſt of thy fooliſh opinions for a Cavalier ſignifies a Gentleman in what languag ſoever you ſpeak is ſo that to ſay truth our enemies (through Jgnorance) have confer'd upon us a better <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e then they could wiſh us, and (to ſay truth) then a great number of us doe deſerve, for by this common title, every poore ſouldier of the <hi>Kings</hi> army (though never ſo baſe in condition) is cal'd a Cavalier, and con<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>q<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ntly a Gentleman.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Jſt poſſible we ſhould be ſo deceived; a litle more of this pri<g ref="char:EOLhyphen"/>the, I like thy diſcourſe well, what ſhall J doe brother?</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Practiſe (as I ſaid before) humility and obedience, and leave of this fooliſh pride, ſelfe conceipt, and ſelfe love, and be not deluded by ſimple mechanicall men, who to get themſelves popular applauſe, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e vtterly to overthrow, and lay waſt the houſe of God and all government of church and State, this contumatious arrogancy, provokes the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt and infallible Iudgment of God to give you over to a reprobate ſence, that you ſhall beleve lyes againſt the knowne truth ſoe long fince planted and cultivated by the Doctrine and blood of ſo many Reverend, religious, painefull, Learned and conſcionable Biſhops, and true Preachers of the truth, whoſe doctrine ſo planted cultivated, and eſtabliſhed you
+<pb facs="tcp:158381:4"/>
+                  <!-- PDF PAGE 97 -->ſeeke vtterly to aboliſh and to ſet up your owne invented novelties in the place.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but brother they tell us it is the pure word of God which they teach us, and that what ſoever was taught and practized in the church be<g ref="char:EOLhyphen"/>fore was (for the moſt part) the inſtutions and inventions or men con<g ref="char:EOLhyphen"/>tray to the written word, as the predominancy of the Biſhops over the reſt of the clergy, nay indeed the word clergy begings to be apocriphall, the croſſe in Baptiſme, I &amp; baptiſme it ſelfe too the King In Marriage, and after a ſort marriage too, the Booke of common prayer, &amp; all other pray<g ref="char:EOLhyphen"/>ers but extemporall; with many other circumſtances which I conceiveing that you know already, doe hold impertinent and unneceſſary to reherſe.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Have at the Scriptures it ſelfe next, you begin very boldly with it, for to uphold your owne ſimple opinion of praying extempory, you explode and reiect that ſacred forme of prayer taught by Chriſts owne mouth as a regular forme for all prayer, he ſaying himſelfe when you pray ſay thus, <hi>Our Father &amp;c.</hi> which you Sectaries doe ſo vilifie and contemne that (as a friend of mine told me) an old Woman ſaid a while agone, I thanke God for it both I and my Children have almoſt forgot<g ref="char:EOLhyphen"/>ten the Lords prayer. Saint <hi>Paul</hi> ſaith, let brotherly love continue, doe good to all, especially to the houſhold of Faith; Let there be no<g ref="char:EOLhyphen"/>thing done with contention and wrangling. but in the ſpirit of meek<g ref="char:EOLhyphen"/>neſſe, exhort one another, keepe Charity firme in the bond of Peace; Let all things be done with decency and order; And other things will I (without writing) ſet in order when I come: but quite contrary to all this among your proud brethren, every one thinks his owne way beſt; ther's nothing but ſtrife and contention; neither peace not charity will be hearken'd too: all things are done contrary to decency and Order; you'le doe nothing but what's written, yet oppoſe what is written, is this well or not?</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>Well I thinke I muſt change my title from Caviller to Cavalier, for I confeſſe all this is true that thou haſt ſaid, And I am heartily ſory that I knew not ſo much before, but have bin loſt all this while in a fogg of Ignorance and ſtupidity; oh that with recalling my ſelfe (which by Gods grace) I purpoſe, I could recall backe my blinded Brethren, my gracious loving and Religious <hi>King,</hi> the uſuall trading and commerce of the honourable head City of <hi>London,</hi> prevent the callamity of Coun<g ref="char:EOLhyphen"/>try, and cure the cares of the Court: Oh that my life may ſerve as an acceptable ſervice in the behalfe of the reſt, to expiate thoſe mutinous and contumelious outrages, which have driven the King from his Parlia<g ref="char:EOLhyphen"/>ment, peace from the Country, trading from the Citty; and plenty with ſafety from the whole Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Thou ſaiſt well brother <hi>Barnaby,</hi> heaven continue that good diſ<g ref="char:EOLhyphen"/>poſition
+<pb facs="tcp:158381:5"/>
+                  <!-- PDF PAGE 98 -->in thee, and grant that more of thy companions may follow thee, in this worthy Reſolution; And then no doubt but before long (God being propitious to penitent prayers) all the things bewail'd and wiſh'd for, would be removed and reſtor'd; And diſtracted and abuſ<g ref="char:EOLhyphen"/>ed <hi>England,</hi> rendering both what is due to God and Caeſer may reaſ<g ref="char:EOLhyphen"/>ſume her priſtine eſtate of honour and happineſſe, which heaven grant for his mercy ſake: In the interim prayer and patience are the beſt ſal<g ref="char:EOLhyphen"/>ves to our greivous ſoares.</p>
+            </sp>
+            <sp>
+               <speaker>Bar.</speaker>
+               <p>That's the only cure indeed, well brother <hi>Kitt</hi> a dieu, I hearti<g ref="char:EOLhyphen"/>ly thanke heaven and thee for this good diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Chry.</speaker>
+               <p>Adieu ſweete <hi>Barnaby</hi> heaven us protect, and grant that all true prayers may take effect.</p>
+            </sp>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:158381:6"/>
+            <!-- PDF PAGE 99 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
